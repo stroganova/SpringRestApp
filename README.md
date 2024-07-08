@@ -1,4 +1,6 @@
-REST приложение Spring + Hibernate
+REST приложение Spring + Hibernate.
+
+
 Actor:
 
 GET http://localhost:8080/api/actors  -получить список всехактеров
