@@ -1,4 +1,4 @@
-package me.nikastroganova.astoncourse.springtask.dto;
+package me.nikastroganova.astoncourse.springtask.DTO;
 
 import lombok.*;
 
@@ -7,6 +7,7 @@ import java.util.List;
 @Setter
 @Getter
 @Builder
+@EqualsAndHashCode
 @AllArgsConstructor
 @NoArgsConstructor
 public class PerformanceResponseDTO {

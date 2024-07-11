@@ -1,6 +1,6 @@
 package me.nikastroganova.astoncourse.springtask.mapper;
 
-import me.nikastroganova.astoncourse.springtask.dto.PerformanceResponseDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.PerformanceResponseDTO;
 import me.nikastroganova.astoncourse.springtask.entity.Performance;
 
 public interface PerformanceResponseMapper  {

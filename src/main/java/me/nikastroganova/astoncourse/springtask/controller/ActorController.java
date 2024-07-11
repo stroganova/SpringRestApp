@@ -1,7 +1,7 @@
 package me.nikastroganova.astoncourse.springtask.controller;
 
-import me.nikastroganova.astoncourse.springtask.dto.ActorRequestDTO;
-import me.nikastroganova.astoncourse.springtask.dto.ActorResponseDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.ActorRequestDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.ActorResponseDTO;
 import me.nikastroganova.astoncourse.springtask.exception.IncorrectData;
 import me.nikastroganova.astoncourse.springtask.exception.NoSuchActorException;
 import me.nikastroganova.astoncourse.springtask.service.ActorService;

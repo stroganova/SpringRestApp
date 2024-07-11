@@ -1,8 +1,7 @@
 package me.nikastroganova.astoncourse.springtask.service;
 
-import me.nikastroganova.astoncourse.springtask.dto.ActorRequestDTO;
-import me.nikastroganova.astoncourse.springtask.dto.PerformanceRequestDTO;
-import me.nikastroganova.astoncourse.springtask.dto.PerformanceResponseDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.PerformanceRequestDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.PerformanceResponseDTO;
 
 
 public interface PerformanceService extends Service<PerformanceResponseDTO, PerformanceRequestDTO> {

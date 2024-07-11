@@ -1,10 +1,11 @@
-package me.nikastroganova.astoncourse.springtask.dto;
+package me.nikastroganova.astoncourse.springtask.DTO;
 
 import lombok.*;
 
 @Setter
 @Getter
 @Builder
+@EqualsAndHashCode
 @AllArgsConstructor
 @NoArgsConstructor
 public class PerformanceRequestDTO {

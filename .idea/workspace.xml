@@ -9,86 +9,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b128d2a-6155-4a90-a49c-957f93a6920c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/105e18d6cd94c958171bf3765b39b279fa4771d7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/1253b8444281bac695b399b8fb675b2e90dda4d1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/250db46148c7f45bb4d216bbcb17a1b365b83706" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50c48fe511c73ae4846328d169626e44effbe1b9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/70f58025b03c3d31d822cc9e12ff884c497a702a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cdb79ebcd921e04f6b404236765e2161139a5e4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a511f578efab946dd3eba98667b237a8d6cf88c4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5948eb3812feba1c408f35951b1b68d29a85bb5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d45176bbc2504154e29424c56fa9331a449e421a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6b72cfd2b8d88718ce56d450e0631f72fb57162" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/0/105e18d6cd94c958171bf3765b39b279fa4771d7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/2/1253b8444281bac695b399b8fb675b2e90dda4d1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/5/250db46148c7f45bb4d216bbcb17a1b365b83706" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/0/50c48fe511c73ae4846328d169626e44effbe1b9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/0/70f58025b03c3d31d822cc9e12ff884c497a702a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/c/8cdb79ebcd921e04f6b404236765e2161139a5e4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a511f578efab946dd3eba98667b237a8d6cf88c4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/5/c5948eb3812feba1c408f35951b1b68d29a85bb5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/4/d45176bbc2504154e29424c56fa9331a449e421a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/6/e6b72cfd2b8d88718ce56d450e0631f72fb57162" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/configuration/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/configuration/WebInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/controller/ActorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/controller/HallController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/controller/PerformanceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/dto/ActorRequestDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/dto/ActorResponseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/dto/HallDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/dto/PerformanceRequestDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/dto/PerformanceResponseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/entity/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/entity/Hall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/entity/Performance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/exception/ExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/exception/IncorrectData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/exception/NoSuchActorException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/exception/NoSuchHallException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/exception/NoSuchPerformanceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/ActorRequestMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/ActorResponseMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/HallMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/PerformanceRequestMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/PerformanceResponseMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/ActorRequestMapperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/ActorResponseMapperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/HallMapperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/PerformanceRequestMapperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/PerformanceResponseMapperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/repository/ActorRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/repository/HallRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/repository/PerformanceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/repository/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/repository/impl/ActorRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/repository/impl/HallRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/repository/impl/PerformanceRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/ActorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/HallService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/PerformanceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/impl/ActorServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/impl/HallServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/impl/PerformanceServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/controller/ActorControllerTests.java" afterDir="false" />
+    <list default="true" id="4b128d2a-6155-4a90-a49c-957f93a6920c" name="Changes" comment="Application without testing">
+      <change afterPath="$PROJECT_DIR$/src/test/java/controller/HallControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/controller/PerformaceControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ActorRequestMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ActorResponseMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/HallMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/PerformanceRequestMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/PerformanceResponseMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/repository/ActorRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/repository/HallRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/repository/PerformanceRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/service/ActorServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/service/HallServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/service/PerformanceServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/util/HibernateTestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50c48fe511c73ae4846328d169626e44effbe1b9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50c48fe511c73ae4846328d169626e44effbe1b9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cdb79ebcd921e04f6b404236765e2161139a5e4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cdb79ebcd921e04f6b404236765e2161139a5e4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/controller/ActorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/controller/ActorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/controller/HallController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/controller/HallController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/controller/PerformanceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/controller/PerformanceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/dto/ActorRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/DTO/ActorRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/dto/ActorResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/DTO/ActorResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/dto/HallDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/DTO/HallDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/dto/PerformanceRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/DTO/PerformanceRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/dto/PerformanceResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/DTO/PerformanceResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/ActorRequestMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/ActorRequestMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/ActorResponseMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/ActorResponseMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/HallMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/HallMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/PerformanceRequestMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/PerformanceRequestMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/PerformanceResponseMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/PerformanceResponseMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/ActorRequestMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/ActorRequestMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/ActorResponseMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/ActorResponseMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/HallMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/HallMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/PerformanceRequestMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/PerformanceRequestMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/PerformanceResponseMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/mapper/impl/PerformanceResponseMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/ActorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/ActorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/HallService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/HallService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/PerformanceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/PerformanceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/impl/ActorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/impl/ActorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/impl/HallServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/impl/HallServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/impl/PerformanceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nikastroganova/astoncourse/springtask/service/impl/PerformanceServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/controller/ActorControllerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/controller/ActorControllerTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,31 +95,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringRestApp [jacoco:report].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringRestApp [test].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Tomcat Server.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/nika/IdeaProjects/SpringRestApp/src/main/resources&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ActorRepositoryTest.executor": "Run",
+    "JUnit.ActorRequestMapperTest.testDtoToEntity.executor": "Run",
+    "JUnit.ActorResponseMapperTest.executor": "Run",
+    "JUnit.ActorResponseMapperTest.mappingWithPerformancesListNull.executor": "Run",
+    "JUnit.ActorResponseMapperTest.testSuccessfulMapEntityToDto.executor": "Run",
+    "JUnit.ActorServiceTest.couldntFindActorNotExist.executor": "Run",
+    "JUnit.ActorServiceTest.successfulActorSave.executor": "Run",
+    "JUnit.ActorServiceTest.successfullyGetAllActors.executor": "Run",
+    "JUnit.ActorServiceTest.successfullyUpdateActor.executor": "Run",
+    "JUnit.HallControllerTest.testGetHalls.executor": "Run",
+    "JUnit.HallMapperTest.testDtoToEntity.executor": "Run",
+    "JUnit.HallMapperTest.testEntityToDto.executor": "Run",
+    "JUnit.HallServiceTest.executor": "Run",
+    "JUnit.HallServiceTest.returnHallById.executor": "Run",
+    "JUnit.HallServiceTest.returnHallByIdIfAdded.executor": "Run",
+    "JUnit.HallServiceTest.successfullySaveHall.executor": "Run",
+    "JUnit.HallServiceTest.successfullyUpdateHall.executor": "Run",
+    "JUnit.HallServiceTest.unsuccessfullyReturnHallById.executor": "Run",
+    "JUnit.PerformanceRequestMapperTest.testDtoToEntity.executor": "Run",
+    "JUnit.PerformanceResponseMapperTest.correctMappingEntityToDto.executor": "Run",
+    "JUnit.PerformanceResponseMapperTest.executor": "Run",
+    "JUnit.PerformanceResponseMapperTest.mappingWithActorsListNull.executor": "Run",
+    "JUnit.PerformanceServiceTest.couldntFindByIdNotExist.executor": "Run",
+    "JUnit.PerformanceServiceTest.successfulFindById.executor": "Run",
+    "JUnit.PerformanceServiceTest.successfullyGetAllPerformances.executor": "Run",
+    "JUnit.PerformanceServiceTest.successfullySavePerformance.executor": "Run",
+    "JUnit.PerformanceServiceTest.successfullyUpdatePerformance.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.SpringRestApp [clean].executor": "Run",
+    "Maven.SpringRestApp [jacoco:report].executor": "Run",
+    "Maven.SpringRestApp [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "Tomcat Server.Unnamed.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nika/IdeaProjects/SpringRestApp/src/test/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
@@ -160,9 +158,89 @@
     <option name="myCommands">
       <command value="mvn jacoco:report" />
       <command value="mvn test" />
+      <command value="Tabnine: Sign in using auth token" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ActorRepositoryTest">
+    <configuration name="ActorRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringRestApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repository" />
+      <option name="MAIN_CLASS_NAME" value="repository.ActorRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HallControllerTest.testGetHalls" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringRestApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.HallControllerTest" />
+      <option name="METHOD_NAME" value="testGetHalls" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerformanceServiceTest.successfullyGetAllPerformances" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringRestApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.PerformanceServiceTest" />
+      <option name="METHOD_NAME" value="successfullyGetAllPerformances" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerformanceServiceTest.successfullySavePerformance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringRestApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.PerformanceServiceTest" />
+      <option name="METHOD_NAME" value="successfullySavePerformance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerformanceServiceTest.successfullyUpdatePerformance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringRestApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.PerformanceServiceTest" />
+      <option name="METHOD_NAME" value="successfullyUpdatePerformance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.24" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -250,6 +328,15 @@
         </option>
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ActorRepositoryTest" />
+        <item itemvalue="JUnit.HallControllerTest.testGetHalls" />
+        <item itemvalue="JUnit.PerformanceServiceTest.successfullyUpdatePerformance" />
+        <item itemvalue="JUnit.PerformanceServiceTest.successfullySavePerformance" />
+        <item itemvalue="JUnit.PerformanceServiceTest.successfullyGetAllPerformances" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -278,11 +365,40 @@
       <workItem from="1720160729385" duration="40000" />
       <workItem from="1720271384868" duration="34244000" />
       <workItem from="1720418971783" duration="4313000" />
-      <workItem from="1720427439986" duration="13372000" />
+      <workItem from="1720427439986" duration="16033000" />
+      <workItem from="1720538269658" duration="608000" />
+      <workItem from="1720595195651" duration="14496000" />
+      <workItem from="1720625336754" duration="2152000" />
+      <workItem from="1720633801786" duration="13248000" />
+      <workItem from="1720678567811" duration="2540000" />
     </task>
+    <task id="LOCAL-00001" summary="Application without testing">
+      <option name="closed" value="true" />
+      <created>1720447068506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720447068506</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Application without testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Application without testing" />
   </component>
 </project>

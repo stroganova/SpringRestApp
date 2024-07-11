@@ -1,7 +1,7 @@
 package me.nikastroganova.astoncourse.springtask.service;
 
-import me.nikastroganova.astoncourse.springtask.dto.ActorRequestDTO;
-import me.nikastroganova.astoncourse.springtask.dto.ActorResponseDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.ActorRequestDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.ActorResponseDTO;
 
 public interface ActorService extends Service<ActorResponseDTO, ActorRequestDTO> {
 

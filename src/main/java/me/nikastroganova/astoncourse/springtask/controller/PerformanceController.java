@@ -1,7 +1,7 @@
 package me.nikastroganova.astoncourse.springtask.controller;
 
-import me.nikastroganova.astoncourse.springtask.dto.PerformanceRequestDTO;
-import me.nikastroganova.astoncourse.springtask.dto.PerformanceResponseDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.PerformanceRequestDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.PerformanceResponseDTO;
 import me.nikastroganova.astoncourse.springtask.exception.NoSuchPerformanceException;
 import me.nikastroganova.astoncourse.springtask.service.PerformanceService;
 import org.springframework.beans.factory.annotation.Autowired;

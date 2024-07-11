@@ -1,6 +1,6 @@
 package me.nikastroganova.astoncourse.springtask.service.impl;
 
-import me.nikastroganova.astoncourse.springtask.dto.HallDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.HallDTO;
 import me.nikastroganova.astoncourse.springtask.entity.Hall;
 import me.nikastroganova.astoncourse.springtask.mapper.HallMapper;
 import me.nikastroganova.astoncourse.springtask.repository.HallRepository;
@@ -11,7 +11,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 import java.util.Optional;
-import java.util.stream.Collectors;
 
 import static java.util.stream.Collectors.*;
 

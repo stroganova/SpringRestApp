@@ -1,6 +1,6 @@
 package me.nikastroganova.astoncourse.springtask.controller;
 
-import me.nikastroganova.astoncourse.springtask.dto.HallDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.HallDTO;
 import me.nikastroganova.astoncourse.springtask.exception.IncorrectData;
 import me.nikastroganova.astoncourse.springtask.exception.NoSuchHallException;
 import me.nikastroganova.astoncourse.springtask.service.HallService;

@@ -1,8 +1,7 @@
 package me.nikastroganova.astoncourse.springtask.service.impl;
 
-import me.nikastroganova.astoncourse.springtask.dto.ActorRequestDTO;
-import me.nikastroganova.astoncourse.springtask.dto.PerformanceRequestDTO;
-import me.nikastroganova.astoncourse.springtask.dto.PerformanceResponseDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.PerformanceRequestDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.PerformanceResponseDTO;
 import me.nikastroganova.astoncourse.springtask.entity.Actor;
 import me.nikastroganova.astoncourse.springtask.entity.Performance;
 import me.nikastroganova.astoncourse.springtask.entity.Hall;

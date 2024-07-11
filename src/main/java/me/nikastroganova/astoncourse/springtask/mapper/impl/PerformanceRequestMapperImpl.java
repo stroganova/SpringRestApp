@@ -1,9 +1,8 @@
 package me.nikastroganova.astoncourse.springtask.mapper.impl;
 
-import me.nikastroganova.astoncourse.springtask.dto.PerformanceRequestDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.PerformanceRequestDTO;
 import me.nikastroganova.astoncourse.springtask.entity.Hall;
 import me.nikastroganova.astoncourse.springtask.entity.Performance;
-import me.nikastroganova.astoncourse.springtask.mapper.HallMapper;
 import me.nikastroganova.astoncourse.springtask.mapper.PerformanceRequestMapper;
 import org.springframework.stereotype.Component;
 

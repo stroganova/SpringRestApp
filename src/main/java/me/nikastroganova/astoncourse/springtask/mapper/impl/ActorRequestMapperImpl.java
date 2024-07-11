@@ -1,6 +1,6 @@
 package me.nikastroganova.astoncourse.springtask.mapper.impl;
 
-import me.nikastroganova.astoncourse.springtask.dto.ActorRequestDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.ActorRequestDTO;
 import me.nikastroganova.astoncourse.springtask.entity.Actor;
 import me.nikastroganova.astoncourse.springtask.mapper.ActorRequestMapper;
 import org.springframework.stereotype.Component;

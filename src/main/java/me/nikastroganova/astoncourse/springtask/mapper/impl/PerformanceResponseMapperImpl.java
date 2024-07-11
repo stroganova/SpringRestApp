@@ -1,8 +1,8 @@
 package me.nikastroganova.astoncourse.springtask.mapper.impl;
 
-import me.nikastroganova.astoncourse.springtask.dto.ActorResponseDTO;
-import me.nikastroganova.astoncourse.springtask.dto.HallDTO;
-import me.nikastroganova.astoncourse.springtask.dto.PerformanceResponseDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.ActorResponseDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.HallDTO;
+import me.nikastroganova.astoncourse.springtask.DTO.PerformanceResponseDTO;
 import me.nikastroganova.astoncourse.springtask.entity.Performance;
 import me.nikastroganova.astoncourse.springtask.entity.Actor;
 import me.nikastroganova.astoncourse.springtask.mapper.ActorResponseMapper;
@@ -19,7 +19,7 @@ import java.util.stream.Collectors;
 public class PerformanceResponseMapperImpl implements PerformanceResponseMapper {
 
     private  ActorResponseMapper actorResponseMapper;
-    private final HallMapper hallMapper;
+    private  final HallMapper hallMapper;
 
     @Autowired
     public PerformanceResponseMapperImpl( HallMapper hallMapper) {

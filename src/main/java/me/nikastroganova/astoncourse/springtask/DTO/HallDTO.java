@@ -1,4 +1,4 @@
-package me.nikastroganova.astoncourse.springtask.dto;
+package me.nikastroganova.astoncourse.springtask.DTO;
 
 import lombok.*;
 
@@ -6,6 +6,7 @@ import lombok.*;
 @Builder
 @Getter
 @Setter
+@EqualsAndHashCode
 @NoArgsConstructor
 @AllArgsConstructor
 public final class HallDTO {
